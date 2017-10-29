@@ -60,7 +60,7 @@
 	$(function(){
         $(".write").typed({
           contentType:"html",
-          shuffle: true,
+          shuffle: false,
           loop:true,
           loopCount:0,
           typeSpeed:100,
@@ -69,7 +69,7 @@
           backDelay:800,
           showCursor:true,
           cursorChar:"_",
-          strings:["ideas","proyectos","sue\u00f1os",""]
+          strings:["Sitios Web 100% Responsive","APPs Mobiles","Construimos Marcas", "Hacemos Marketing", "Y te ayudamos a lanzarte y recorrer juntos el mundo digital",""]
         });
     });
 
