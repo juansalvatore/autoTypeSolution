@@ -1,0 +1,13 @@
+h2 {
+    color: #858889;
+    font-family: 'Lato';
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.7;
+    text-decoration: none;
+    text-transform: none;
+}
+.auto-type-element span.block {
+    background: #00afa1 !important;
+}  
